@@ -29,7 +29,7 @@ users:
       #sendKey 当sendType为0时代表邮箱，当sendType为1时代表接收消息的QQ号码，当sendType为2时代表接收消息的pushplus token
       sendKey: '5196715a63e24c72830b6e5c8137bb32'
       #school 学校全称
-      schoolName: 武汉船舶职业技术学院
+      schoolName: 潍坊职业学院
       # 附上经纬度查询地址（请自行选择自己的学校地址，address，lon，lat都要填查询到的）：http://api.map.baidu.com/lbsapi/getpoint/index.html
       #lon 经度
       lon: 119.211565
